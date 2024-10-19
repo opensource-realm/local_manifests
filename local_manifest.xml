@@ -9,7 +9,6 @@
   <project path="vendor/xiaomi/vayu" remote="org" name="vendor_xiaomi_vayu" revision="matrixx14" />
   <project path="vendor/xiaomi/sm8150-common" remote="org" name="vendor_xiaomi_sm8150-common" revision="matrixx14" />
   <project path="kernel/xiaomi/vayu" remote="bag" name="kernel_xiaomi_vayu" revision="14-derp" />
-  <project path="vendor/dolby" remote="org" name="vendor_dolby" revision="main" />
   <project path="vendor/lineage-priv/keys" remote="momen" name="my_sign_test_keys" revision="QPR3" />
   <project path="hardware/xiaomi" remote="hard" name="android_hardware_xiaomi" revision="lineage-21" />
 </manifest>
